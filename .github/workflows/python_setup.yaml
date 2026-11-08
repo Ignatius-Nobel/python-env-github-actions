@@ -2,8 +2,7 @@ name: python setup
 
 on:
   push:
-    branches: 
-      - main
+  
 jobs:
   setup:
     name: Python setup                     
